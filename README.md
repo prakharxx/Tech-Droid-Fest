@@ -1,0 +1,2 @@
+# Tech-Droid-Fest
+This website I made in my first year for my college competition 'Webkriti'. This was my first project in web development. This website contain log-in and log-out. You can register for various events in the fest. There is an automailer which which repond to you as you lodge any complaint. There is also a visitor section where you can post about the fest, your excitement and upload your photos of the fest. These photos you upload and your coments will be visible publicy even if you log-out. 
